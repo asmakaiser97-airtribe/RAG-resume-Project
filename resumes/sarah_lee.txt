@@ -1,0 +1,9 @@
+Sarah Lee
+Professional Summary
+FastAPI developer with 4 years of experience creating cloud-ready backend services.
+Skills
+Python, FastAPI, PostgreSQL, Docker, AWS, REST APIs, pytest
+Experience
+Backend Engineer at Orbit Systems (2022-2026). Developed FastAPI services, containerized deployments, and database integrations.
+Education
+BS Software Engineering, 2021

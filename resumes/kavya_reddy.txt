@@ -1,0 +1,9 @@
+Kavya Reddy
+Professional Summary
+Python automation engineer with 4 years of experience delivering production software and collaborating across teams.
+Skills
+Python, scripting, APIs, pytest, Linux, GitHub Actions
+Experience
+Automated repetitive workflows and API validation. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BTech IT

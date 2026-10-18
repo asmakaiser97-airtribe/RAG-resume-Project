@@ -1,0 +1,9 @@
+Ethan Brooks
+Professional Summary
+Database developer with 3 years of experience delivering production software and collaborating across teams.
+Skills
+SQL, PostgreSQL, MySQL, indexing, query optimization, Python
+Experience
+Optimized queries and designed relational schemas. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Information Systems

@@ -1,0 +1,9 @@
+Vikram Singh
+Professional Summary
+Site reliability engineer with 5 years of experience delivering production software and collaborating across teams.
+Skills
+Linux, Kubernetes, Prometheus, Grafana, Python, incident management
+Experience
+Improved service observability and incident response. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BTech Computer Engineering

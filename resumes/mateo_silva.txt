@@ -1,0 +1,9 @@
+Mateo Silva
+Professional Summary
+Systems engineer with 5 years of experience delivering production software and collaborating across teams.
+Skills
+Linux, Bash, networking, Ansible, monitoring, Python
+Experience
+Maintained systems and automated configuration tasks. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Computer Engineering

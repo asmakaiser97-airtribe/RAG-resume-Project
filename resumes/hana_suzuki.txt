@@ -1,0 +1,9 @@
+Hana Suzuki
+Professional Summary
+Full-stack developer with 2 years of experience delivering production software and collaborating across teams.
+Skills
+Python, Django, React, PostgreSQL, JavaScript, Docker
+Experience
+Delivered full-stack features across API and UI layers. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BEng Software Engineering

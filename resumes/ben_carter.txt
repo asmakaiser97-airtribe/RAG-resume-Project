@@ -1,0 +1,9 @@
+Ben Carter
+Professional Summary
+Cybersecurity analyst with 4 years of experience delivering production software and collaborating across teams.
+Skills
+SIEM, incident response, Linux, Python, networking, Splunk
+Experience
+Investigated alerts and automated log analysis. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Cybersecurity

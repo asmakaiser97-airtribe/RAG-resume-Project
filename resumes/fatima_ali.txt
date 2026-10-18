@@ -1,0 +1,9 @@
+Fatima Ali
+Professional Summary
+QA automation engineer with 4 years of experience delivering production software and collaborating across teams.
+Skills
+Python, pytest, Selenium, API testing, SQL, CI/CD
+Experience
+Automated UI and API regression tests. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Software Engineering

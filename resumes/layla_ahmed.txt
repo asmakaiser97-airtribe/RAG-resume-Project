@@ -1,0 +1,9 @@
+Layla Ahmed
+Professional Summary
+AI engineer with 2 years of experience delivering production software and collaborating across teams.
+Skills
+Python, PyTorch, Hugging Face, LLMs, embeddings, RAG
+Experience
+Prototyped retrieval-augmented question answering. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+MSc AI

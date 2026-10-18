@@ -1,0 +1,9 @@
+Aisha Rahman
+Professional Summary
+Python backend developer with 3 years of experience delivering production software and collaborating across teams.
+Skills
+Python, Django, DRF, PostgreSQL, Redis, REST APIs
+Experience
+Django REST APIs, PostgreSQL query tuning, unit tests. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Computer Science

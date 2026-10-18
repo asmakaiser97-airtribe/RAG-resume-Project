@@ -1,0 +1,9 @@
+Carlos Rivera
+Professional Summary
+Cloud engineer with 2 years of experience delivering production software and collaborating across teams.
+Skills
+AWS, Azure, Docker, Kubernetes, Python, Terraform
+Experience
+Managed cloud resources and automated deployment workflows. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BS Information Technology

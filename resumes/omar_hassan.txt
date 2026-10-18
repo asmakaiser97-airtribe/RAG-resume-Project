@@ -1,0 +1,9 @@
+Omar Hassan
+Professional Summary
+DevOps engineer with 6 years of experience delivering production software and collaborating across teams.
+Skills
+Docker, Kubernetes, AWS, Terraform, Linux, CI/CD
+Experience
+Automated deployments, monitoring, infrastructure as code. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Information Systems

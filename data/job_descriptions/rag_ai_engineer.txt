@@ -1,0 +1,2 @@
+Job Title: RAG / AI Engineer
+Seeking 2+ years of experience with Python, embeddings, semantic search, vector databases, retrieval-augmented generation (RAG), and LLM application development. PyTorch or Hugging Face is useful.

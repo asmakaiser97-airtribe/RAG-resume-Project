@@ -1,0 +1,9 @@
+Daniel Kim
+Professional Summary
+Backend developer with 3 years of experience delivering production software and collaborating across teams.
+Skills
+Python, FastAPI, PostgreSQL, Docker, pytest, REST APIs
+Experience
+Designed FastAPI endpoints and integration tests. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BS Computer Science

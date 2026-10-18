@@ -1,0 +1,9 @@
+Zara Khan
+Professional Summary
+Django developer with 3 years of experience delivering production software and collaborating across teams.
+Skills
+Python, Django, DRF, Celery, Redis, PostgreSQL
+Experience
+Implemented background jobs and REST APIs for SaaS platform. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Computer Science

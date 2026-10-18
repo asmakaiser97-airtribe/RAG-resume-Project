@@ -1,0 +1,9 @@
+Ravi Kumar
+Professional Summary
+Machine learning engineer with 4 years of experience delivering production software and collaborating across teams.
+Skills
+Python, scikit-learn, pandas, NumPy, TensorFlow, SQL
+Experience
+Built classification models, feature pipelines, model evaluation. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+MSc Data Science

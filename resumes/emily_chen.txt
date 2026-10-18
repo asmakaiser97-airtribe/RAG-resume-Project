@@ -1,0 +1,9 @@
+Emily Chen
+Professional Summary
+NLP engineer with 6 years of experience delivering production software and collaborating across teams.
+Skills
+Python, NLP, transformers, PyTorch, embeddings, vector search
+Experience
+Implemented semantic search and text classification prototypes. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+MS Artificial Intelligence

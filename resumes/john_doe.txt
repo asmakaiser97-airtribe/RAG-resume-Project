@@ -1,0 +1,9 @@
+John Doe
+Professional Summary
+Python backend developer with 3 years of experience building web APIs.
+Skills
+Python, Django, Django REST Framework, PostgreSQL, REST APIs, Git, Docker
+Experience
+Backend Developer at Northstar Apps (2023-2026). Built REST endpoints, optimized SQL queries, wrote unit tests, and maintained Django services.
+Education
+BSc Computer Science, 2022

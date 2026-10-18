@@ -1,0 +1,9 @@
+Ibrahim Saleh
+Professional Summary
+Data scientist with 3 years of experience delivering production software and collaborating across teams.
+Skills
+Python, pandas, NumPy, scikit-learn, statistics, ML
+Experience
+Performed exploratory analysis and trained predictive models. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+MSc Statistics

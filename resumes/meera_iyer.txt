@@ -1,0 +1,9 @@
+Meera Iyer
+Professional Summary
+Frontend developer with 5 years of experience delivering production software and collaborating across teams.
+Skills
+JavaScript, TypeScript, React, HTML, CSS, Jest
+Experience
+Built accessible React dashboards and reusable UI components. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BTech Information Technology

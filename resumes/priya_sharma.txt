@@ -1,0 +1,9 @@
+Priya Sharma
+Professional Summary
+Backend developer with 3 years of experience in Python services and asynchronous processing.
+Skills
+Python, Django, Redis, Celery, PostgreSQL, REST APIs, Docker
+Experience
+Software Engineer at CloudNest (2023-2026). Built Django APIs, scheduled Celery jobs, and improved background task reliability.
+Education
+BTech Information Technology, 2022

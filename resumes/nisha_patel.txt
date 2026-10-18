@@ -1,0 +1,9 @@
+Nisha Patel
+Professional Summary
+Data engineer with 2 years of experience delivering production software and collaborating across teams.
+Skills
+Python, SQL, Airflow, Spark, AWS, ETL, PostgreSQL
+Experience
+Built batch ETL pipelines and data quality checks. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+MTech Computer Science

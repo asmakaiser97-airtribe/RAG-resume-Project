@@ -1,0 +1,9 @@
+Olivia Green
+Professional Summary
+Product analyst with 4 years of experience delivering production software and collaborating across teams.
+Skills
+SQL, experimentation, metrics, Python, Tableau, analytics
+Experience
+Analyzed product funnels and designed A/B test reporting. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Mathematics

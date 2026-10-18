@@ -1,0 +1,11 @@
+Job Title: Python Backend Developer
+
+Build and maintain backend services and REST APIs using Python, Django, Django REST Framework, and PostgreSQL.
+
+Must have at least 3 years of experience.
+
+Must-have skills: Python, Django, Django REST Framework, PostgreSQL, REST API.
+
+Preferred skills: Docker, Redis.
+
+Responsibilities include writing tests and optimizing database queries.

@@ -1,0 +1,9 @@
+Yusuf Demir
+Professional Summary
+Node.js backend developer with 2 years of experience delivering production software and collaborating across teams.
+Skills
+JavaScript, Node.js, Express, MongoDB, REST APIs, Docker
+Experience
+Built Node services and API integrations. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BSc Software Engineering

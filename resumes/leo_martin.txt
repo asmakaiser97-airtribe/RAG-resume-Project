@@ -1,0 +1,9 @@
+Leo Martin
+Professional Summary
+Mobile developer with 6 years of experience delivering production software and collaborating across teams.
+Skills
+Kotlin, Android, Java, REST APIs, Firebase
+Experience
+Built Android applications and integrated backend APIs. Worked with code reviews, documentation, debugging, and iterative delivery.
+Education
+BS Software Engineering
