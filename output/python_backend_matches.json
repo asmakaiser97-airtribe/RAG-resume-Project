@@ -1,0 +1,414 @@
+{
+  "job_description": "Job Title: Python Backend Developer\n\nBuild and maintain backend services and REST APIs using Python, Django, Django REST Framework, and PostgreSQL.\n\nMust have at least 3 years of experience.\n\nMust-have skills: Python, Django, Django REST Framework, PostgreSQL, REST API.\n\nPreferred skills: Docker, Redis.\n\nResponsibilities include writing tests and optimizing database queries.",
+  "top_matches": [
+    {
+      "candidate_name": "John Doe",
+      "resume_path": "resumes/john_doe.txt",
+      "match_score": 81,
+      "matched_skills": [
+        "django",
+        "django rest framework",
+        "docker",
+        "postgresql",
+        "python",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Python, Django, Django REST Framework, PostgreSQL, REST APIs, Git, Docker",
+        "Backend Developer at Northstar Apps (2023-2026). Built REST endpoints, optimized SQL queries, wrote unit tests, and maintained Django services.",
+        "Python backend developer with 3 years of experience building web APIs."
+      ],
+      "reasoning": "Semantic relevance 0.70; matched 6/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: redis.",
+      "experience_years": 3,
+      "must_have_pass": true,
+      "missing_skills": [
+        "redis"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [],
+      "matched_sections": [
+        "Experience",
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Aisha Rahman",
+      "resume_path": "resumes/aisha_rahman.txt",
+      "match_score": 81,
+      "matched_skills": [
+        "django",
+        "django rest framework",
+        "postgresql",
+        "python",
+        "redis",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Python, Django, DRF, PostgreSQL, Redis, REST APIs",
+        "Python backend developer with 3 years of experience delivering production software and collaborating across teams.",
+        "Django REST APIs, PostgreSQL query tuning, unit tests. Worked with code reviews, documentation, debugging, and iterative delivery."
+      ],
+      "reasoning": "Semantic relevance 0.70; matched 6/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: docker.",
+      "experience_years": 3,
+      "must_have_pass": true,
+      "missing_skills": [
+        "docker"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [],
+      "matched_sections": [
+        "Experience",
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Priya Sharma",
+      "resume_path": "resumes/priya_sharma.txt",
+      "match_score": 81,
+      "matched_skills": [
+        "django",
+        "docker",
+        "postgresql",
+        "python",
+        "redis",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Python, Django, Redis, Celery, PostgreSQL, REST APIs, Docker",
+        "Backend developer with 3 years of experience in Python services and asynchronous processing.",
+        "Software Engineer at CloudNest (2023-2026). Built Django APIs, scheduled Celery jobs, and improved background task reliability."
+      ],
+      "reasoning": "Semantic relevance 0.70; matched 6/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: django rest framework.",
+      "experience_years": 3,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django rest framework"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django rest framework"
+      ],
+      "matched_sections": [
+        "Experience",
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Zara Khan",
+      "resume_path": "resumes/zara_khan.txt",
+      "match_score": 79,
+      "matched_skills": [
+        "django",
+        "django rest framework",
+        "postgresql",
+        "python",
+        "redis",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Django developer with 3 years of experience delivering production software and collaborating across teams.",
+        "Python, Django, DRF, Celery, Redis, PostgreSQL",
+        "Implemented background jobs and REST APIs for SaaS platform. Worked with code reviews, documentation, debugging, and iterative delivery."
+      ],
+      "reasoning": "Semantic relevance 0.66; matched 6/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: docker.",
+      "experience_years": 3,
+      "must_have_pass": true,
+      "missing_skills": [
+        "docker"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [],
+      "matched_sections": [
+        "Experience",
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Sarah Lee",
+      "resume_path": "resumes/sarah_lee.txt",
+      "match_score": 65,
+      "matched_skills": [
+        "docker",
+        "postgresql",
+        "python",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Python, FastAPI, PostgreSQL, Docker, AWS, REST APIs, pytest",
+        "Backend Engineer at Orbit Systems (2022-2026). Developed FastAPI services, containerized deployments, and database integrations.",
+        "FastAPI developer with 4 years of experience creating cloud-ready backend services."
+      ],
+      "reasoning": "Semantic relevance 0.60; matched 4/7 identified job skills; candidate experience 4 years vs 3 required. Missing identified skills: django, django rest framework, redis.",
+      "experience_years": 4,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django",
+        "django rest framework",
+        "redis"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django",
+        "django rest framework"
+      ],
+      "matched_sections": [
+        "Experience",
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Daniel Kim",
+      "resume_path": "resumes/daniel_kim.txt",
+      "match_score": 64,
+      "matched_skills": [
+        "docker",
+        "postgresql",
+        "python",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "Python, FastAPI, PostgreSQL, Docker, pytest, REST APIs",
+        "Backend developer with 3 years of experience delivering production software and collaborating across teams."
+      ],
+      "reasoning": "Semantic relevance 0.58; matched 4/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: django, django rest framework, redis.",
+      "experience_years": 3,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django",
+        "django rest framework",
+        "redis"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django",
+        "django rest framework"
+      ],
+      "matched_sections": [
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Hana Suzuki",
+      "resume_path": "resumes/hana_suzuki.txt",
+      "match_score": 60,
+      "matched_skills": [
+        "django",
+        "docker",
+        "postgresql",
+        "python"
+      ],
+      "relevant_excerpts": [
+        "Python, Django, React, PostgreSQL, JavaScript, Docker",
+        "Full-stack developer with 2 years of experience delivering production software and collaborating across teams."
+      ],
+      "reasoning": "Semantic relevance 0.61; matched 4/7 identified job skills; candidate experience 2 years vs 3 required. Missing identified skills: django rest framework, redis, rest api. Does not meet the stated experience threshold.",
+      "experience_years": 2,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django rest framework",
+        "redis",
+        "rest api"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django rest framework",
+        "rest api"
+      ],
+      "matched_sections": [
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Ethan Brooks",
+      "resume_path": "resumes/ethan_brooks.txt",
+      "match_score": 50,
+      "matched_skills": [
+        "postgresql",
+        "python"
+      ],
+      "relevant_excerpts": [
+        "SQL, PostgreSQL, MySQL, indexing, query optimization, Python",
+        "Database developer with 3 years of experience delivering production software and collaborating across teams."
+      ],
+      "reasoning": "Semantic relevance 0.52; matched 2/7 identified job skills; candidate experience 3 years vs 3 required. Missing identified skills: django, django rest framework, docker, redis, rest api.",
+      "experience_years": 3,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django",
+        "django rest framework",
+        "docker",
+        "redis",
+        "rest api"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django",
+        "django rest framework",
+        "rest api"
+      ],
+      "matched_sections": [
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Kavya Reddy",
+      "resume_path": "resumes/kavya_reddy.txt",
+      "match_score": 47,
+      "matched_skills": [
+        "python"
+      ],
+      "relevant_excerpts": [
+        "Python automation engineer with 4 years of experience delivering production software and collaborating across teams.",
+        "Python, scripting, APIs, pytest, Linux, GitHub Actions"
+      ],
+      "reasoning": "Semantic relevance 0.59; matched 1/7 identified job skills; candidate experience 4 years vs 3 required. Missing identified skills: django, django rest framework, docker, postgresql, redis, rest api.",
+      "experience_years": 4,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django",
+        "django rest framework",
+        "docker",
+        "postgresql",
+        "redis",
+        "rest api"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django",
+        "django rest framework",
+        "postgresql",
+        "rest api"
+      ],
+      "matched_sections": [
+        "Professional Summary",
+        "Skills"
+      ]
+    },
+    {
+      "candidate_name": "Noah Williams",
+      "resume_path": "resumes/noah_williams.txt",
+      "match_score": 46,
+      "matched_skills": [
+        "redis",
+        "rest api"
+      ],
+      "relevant_excerpts": [
+        "PHP developer with 6 years of experience delivering production software and collaborating across teams.",
+        "PHP, Laravel, MySQL, REST APIs, Redis, Git"
+      ],
+      "reasoning": "Semantic relevance 0.45; matched 2/7 identified job skills; candidate experience 6 years vs 3 required. Missing identified skills: django, django rest framework, docker, postgresql, python.",
+      "experience_years": 6,
+      "must_have_pass": false,
+      "missing_skills": [
+        "django",
+        "django rest framework",
+        "docker",
+        "postgresql",
+        "python"
+      ],
+      "must_have_skills": [
+        "django rest framework",
+        "postgresql",
+        "rest api",
+        "python",
+        "django"
+      ],
+      "missing_must_have_skills": [
+        "django",
+        "django rest framework",
+        "postgresql",
+        "python"
+      ],
+      "matched_sections": [
+        "Professional Summary",
+        "Skills"
+      ]
+    }
+  ],
+  "filters": {
+    "required_experience_years": 3,
+    "identified_job_skills": [
+      "django rest framework",
+      "postgresql",
+      "rest api",
+      "python",
+      "django",
+      "docker",
+      "redis"
+    ],
+    "must_have_skills": [
+      "django rest framework",
+      "postgresql",
+      "rest api",
+      "python",
+      "django"
+    ],
+    "enforce_must_haves": false
+  },
+  "metrics": {
+    "latency_ms": 5748.62,
+    "candidates_returned": 10
+  }
+}
